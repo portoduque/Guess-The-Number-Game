@@ -34,7 +34,6 @@ answer = set_answer()
 #Print the welcomes
 print("Welcome to the Number Guessing Game!")
 print("I'm thinking of a number between 1 and 100.")
-print(f"Pssst, the correct answer is {answer}")
 
 #Set the game begin
 def game():
