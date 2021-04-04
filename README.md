@@ -10,13 +10,17 @@ It is a fun game that challenge you to find a number based on greater than or le
 ***
 ## Usage example
 
+### Easy level
+![you_win](https://user-images.githubusercontent.com/37813839/113521503-3865bf00-9570-11eb-8455-54807443fa40.gif)
+### Hard level
+![you_lose](https://user-images.githubusercontent.com/37813839/113521510-474c7180-9570-11eb-94d7-9cd6d62c200e.gif)
 
 
 
 
 
 
-## How to open
+## How to play
 1. [Click Here](https://replit.com/@portoduque/Guess-The-Number-Game)
 2. Click on the start button
 3. Have fun
