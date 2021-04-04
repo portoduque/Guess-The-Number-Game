@@ -1,4 +1,6 @@
-# Guess The Number Game
+![Guess The Number Game](https://user-images.githubusercontent.com/37813839/113494781-07c74c00-94c2-11eb-9fb8-22aad229f68c.png)
+
+## About
 
 It is a fun game that challenge you to find a number based on greater than or less than feedback.
 ***
@@ -7,6 +9,7 @@ It is a fun game that challenge you to find a number based on greater than or le
 * [Pyhton](https://www.python.org/downloads/)
 ***
 ## Usage example
+
 
 
 
