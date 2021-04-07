@@ -16,10 +16,6 @@ It is a fun game that challenge you to find a number based on greater than or le
 ![you_lose](https://user-images.githubusercontent.com/37813839/113521510-474c7180-9570-11eb-94d7-9cd6d62c200e.gif)
 
 
-
-
-
-
 ## How to play
 1. [Click Here](https://replit.com/@portoduque/Guess-The-Number-Game)
 2. Click on the start button
@@ -32,7 +28,7 @@ Project Link: [https://github.com/portoduque/Guess-The-Number-Game](https://gith
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/portoduque/Guess-The-Number-Game/blob/main/LICENSE.md) for more information.
 ***
 ## Contributing
 
